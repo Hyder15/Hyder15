@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hyder15
 - 👀 I’m interested in Devops 
 - 🌱 I’m currently learning the basics
-- 💞️ I’m looking to collaborate on Devops
+- 💞️ I’m looking to collaborate on Devops learning 
 
 
 <!---
